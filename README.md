@@ -3,7 +3,9 @@
 🎉 Welcome to the **Price Monitoring and Forecasting Application** repository! This project is built on the Microsoft Power Platform, offering supply chain professionals advanced insights and analytical tools for efficient price monitoring and forecasting. Sensitive information has been omitted or redacted for confidentiality.
 
 ![Visualization](https://github.com/KeshavaYada/Price-Monitoring-and-Forecasting-Application/blob/main/Visualization_1.png)
+
 ![Visualization](https://github.com/KeshavaYada/Price-Monitoring-and-Forecasting-Application/blob/main/Visualization_2.png)
+
 ---
 
 ## 📋 Project Overview
